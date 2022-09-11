@@ -1,0 +1,443 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-transform: none;
+}
+#container{
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color: #343434;
+    margin: 0px 0px auto;
+}
+nav{
+    width: 100%;
+    float: left;
+}
+header{
+    width: 100%;
+    float: left;
+    height: 600px;
+    margin: 5px 5px auto;
+    background-image: url(../image/Musicology.jpg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.logo-part{
+    width:20%;
+    float: left;
+   margin-right: auto;
+
+}
+.menu-part{
+    width: 75%;
+    float: left;
+   text-align: center;
+   font-size: 25px;
+   font-weight: 600;
+   margin: 5px 0px auto;
+}
+.icon i{
+    width: 5%;
+    float: left;
+    font-size: 30px;
+    margin: 10px 0px auto;
+    color: #ffffff;
+}
+.menu-part li{
+   display: inline-block;
+   margin: 5px 20px auto;
+   color: #ffffff;
+}
+#container9{
+    width: 100%;
+    float: left;
+}
+.hero-part{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin: auto;
+    color: #ffffffe9;
+}
+.hero-writing-part{
+width: 70%;
+font-weight: 600;
+float: left;
+margin: 25% 0% auto;
+}
+.hero-writing-part h1{
+    font-size: 50px;
+}
+.button {
+    padding: 10px;
+    width: 35%;
+    padding: 15px;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 7px;
+    background-color: #e8631c;
+}
+#container10{
+    width: 100%;
+    float: left;
+}
+.box-part {
+    width: 50%;
+    float: left;
+}
+#group{
+    width: 100%;
+    float: left;
+    background-color: #e8631c;
+    text-align: center;
+    margin: auto;
+    color: #ffffffc6;
+    padding: 50px;
+
+}
+.group-global-heading {
+    margin-top: 10px 0px auto;
+    font-size: 30px;
+    font-weight: 600;
+    color: #ffffff;
+}
+p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.group-part{
+    width: 100%;
+    float: left;
+    margin: 10px 0px auto;
+    padding: 40px;
+
+}
+.group-box-part1 {
+width: 29%;
+float: left;
+margin: 0px 35px auto;
+background-image: url(../image/group-dance1.jpg);
+background-size: cover;
+background-position: center;
+height: 450px;
+}
+.group-box-part2{
+    width: 29%;
+    float: left;
+    margin:0px 35px auto;
+    background-image: url(../image/group-dance2.jpg);
+    background-size: cover;
+    height: 450px;
+}
+.group-box-part3{
+    width: 29%;
+    float: left;
+    margin:0px 35px auto;
+    background-image: url(../image/group-dance3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+}
+.group-writing-part{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-top: 380px;
+    background-color: #303030;
+
+}
+#Pricing{
+    width: 100%;
+    float: left;
+    margin: auto;
+    text-align: center;
+    background-color: #303030;
+    color: #ffffffd5;
+    padding: 60px;
+    
+}
+.Pricing-writing-part{
+width: 100%;
+float: left;
+margin: 20px 0px;
+
+}
+h3{
+    margin: 10px 20px auto;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.container1 {
+    width: 30%;
+    margin: 0px 25px auto;
+    float: left;
+    text-align: center;
+    background-color: #e8631c;
+    padding: 35px;
+    border-radius: 10px;
+}
+.container2{
+    width: 30%;
+    margin: 0px 25px auto;
+    float: left;
+    text-align: center;
+    background-color: #e8631c;
+    padding: 35px;
+    border-radius: 10px;
+}
+.container3{
+    width: 30%;
+    margin: 0px 25px auto;
+    float: left;
+    text-align: center;
+    background-color: #e8631c;
+    padding: 35px;
+    border-radius: 10px;
+}
+input {
+    padding: 15px;
+    width: 100%;
+    margin: 10px 0px auto;
+    border-radius: 5px;
+    background-color: #303030;
+    font-size: 20px;
+    color: #ffffffed;
+}
+input:hover {
+    background-color: rgb(115, 100, 100);
+}
+#amazing{
+    width: 100%;
+    float: left;
+    margin: auto;
+    background-color: #e8631c;
+}
+.amazing-box{
+    width: 50%;
+    float: left;
+    margin: auto;
+    padding: 300px;
+    background-image: url(../image/amaging-dance.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.amazing-writing-part{
+    width: 50%;
+    float: left;
+    margin: 12% 0% auto;
+    text-align: center;
+    color: #ffffffc2;
+}
+h2{
+    font-size: 30px;
+    margin-bottom: 25px;
+    color: #ffffff;
+}
+a button{
+    background-color: #303030;
+    padding: 18px;
+    width: 25%;
+    font-size: 20px;
+    color: #ffffff;
+    margin: 10px 0px auto;
+    border-radius: 7px;
+}
+#best{
+    width: 100%;
+    float: left;
+    margin: auto;
+    background-color: #e8631c;
+}
+.best-writing-part{
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin: 12% 0% auto;
+    color: #ffffffd8;
+}
+.best-box{
+width: 50%;
+float: left;
+background-image: url(../image/best-dance.jpg);
+background-size: cover;
+background-position: center;
+padding: 300px;
+}
+#statistics{
+    width: 100%;
+    float: left;
+    background-color: #303030;
+    text-align: center;
+    color: #ffffff;
+    padding: 150px;
+
+}
+.statistics-container{
+    width: 90%;
+    float: left;
+   
+
+}
+.statistics-writing-part{
+    width: 100%;
+    float: left;
+    margin: 20px 0px auto;
+
+}
+h5{
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 2%;
+}
+p{
+    font-size: 25px;
+    font-weight: 600;
+   margin-bottom: 7% auto;
+}
+.statistics-box1{
+    width: 33%;
+    float: left;
+    margin:  auto;
+
+}
+.statistics-box2{
+    width: 33%;
+    float: left;
+
+}
+.statistics-box3{
+    width: 33%;
+    float: left;
+}
+.global-heading-7{
+    font-size: 40px;
+    margin: 35px 0px auto;
+}
+
+#Herbert-box{
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-image: url(../image/simon.png);
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    padding: 250px;
+
+
+}
+.Herbert-writing-part{
+    width: 100%;
+    float: left;
+
+}
+.global-heading p{
+font-weight: 600;
+margin: 30px 0px auto;
+}
+h6{
+font-weight: 600;
+font-size: 35px;
+margin: 30px 0px auto;
+}
+#subscribe{
+    width: 100%;
+    float: left;
+    background-color: #e8631c;
+    margin: auto;
+    padding: 100px;
+    
+}
+.subscribe-writing-part{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin: 35px 0px auto;
+    color: #ffffffda;
+}
+h6{
+ margin-bottom: 3%;
+}
+.form-box1{
+    width: 30%;
+    float: left;
+    margin: 0px 10px auto;
+    text-align: center;
+    margin-left: 25%;
+}
+.form-box2{
+    width: 20%;
+    float: left;
+}
+.form-box2 input{
+    padding: 20px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.form-box1 input{
+    background-color: #ffffff;
+    padding: 20px;
+    font-size: 25px;
+}
+#container8{
+    width: 100%;
+    float: left;
+    margin: 10px 0px auto;
+    text-align: center;
+    background-color: #303030;
+    color: #ffffff72;
+    padding: 60px;
+
+}
+.music-part{
+    width: 40%;
+    float: left;
+}
+.music-writing-part{
+    width: 100%;
+    float: left;
+
+}
+.big-heading h2 {
+    color: rgb(157, 94, 94);
+    
+   margin: 10px 0px auto;
+}
+.team-icons i{
+    padding: 8px;
+    margin: 3% 2% auto;
+    color: rgb(37, 8, 8);
+    background-color: #ffffff;
+    border-radius: 10px;
+
+}
+.about-part{
+    width: 20%;
+    float: left;
+
+}
+.about-writing-part{
+
+}
+.service-part{
+    width: 20%;
+float: left;
+}
+.service-writing-part{
+
+}
+.others-part{
+    width: 20%;
+    float: left;
+
+}
+.others-writing-part{
+margin-bottom: 10px auto;
+}
+
+
